@@ -2,9 +2,11 @@ html,
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: rgb(203, 236, 221);
 }
  
 #app {
   width: 100vw;
   height: 100vh;
+  
 }
