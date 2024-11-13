@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Conditional-quiz/static/css/main.ce18b8d3.css",
+    "main.js": "/Conditional-quiz/static/js/main.a1f2f8a7.js",
+    "index.html": "/Conditional-quiz/index.html",
+    "main.ce18b8d3.css.map": "/Conditional-quiz/static/css/main.ce18b8d3.css.map",
+    "main.a1f2f8a7.js.map": "/Conditional-quiz/static/js/main.a1f2f8a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce18b8d3.css",
+    "static/js/main.a1f2f8a7.js"
+  ]
+}
